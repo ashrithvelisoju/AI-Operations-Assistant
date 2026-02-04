@@ -101,7 +101,7 @@ python main.py "What is the weather in London?"
 
 ## 🔧 LLM Integration
 
-Uses **Gemini 3 Flash** via the `emergentintegrations` library for:
+Uses **Gemini 3 Flash** 
 - Natural language understanding
 - Plan generation with structured JSON output
 - Reasoning steps without tool calls
