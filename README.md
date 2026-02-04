@@ -107,17 +107,6 @@ Uses **Gemini 3 Flash**
 - Reasoning steps without tool calls
 - Result verification and synthesis
 
-## 📊 Evaluation Criteria
-
-| Criteria | Weight |
-|----------|--------|
-| Agent Design | 25% |
-| LLM Usage | 20% |
-| API Integration | 20% |
-| Code Clarity | 15% |
-| Working Demo | 10% |
-| Documentation | 10% |
-
 ## 📝 License
 
 MIT License
